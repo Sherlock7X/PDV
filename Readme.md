@@ -1,0 +1,1 @@
+This project is an extension of Path Dependent Volatility by Gulien Guyon, which can be found at https://github.com/Jordylek/VolatilityIsMostlyPathDependent.
